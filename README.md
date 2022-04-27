@@ -1,4 +1,2 @@
 
-# Learning-Git
-Git Tests for @BeCodeLiege
-BeCode c'est chouette alouette
+Coder c'est chouette mais c'est dur
